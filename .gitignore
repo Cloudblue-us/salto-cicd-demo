@@ -9,6 +9,20 @@
 .localdevserver/
 deploy-options.json
 
+# Test ignore
+.prettierignore
+.prettierrc
+jest.config.js
+package.json
+README.md
+sfdx-project.json
+.husky
+project-scratch-def.json
+.eslintrc.json
+hello.apex
+account.soql
+
+
 # LWC VSCode autocomplete
 **/lwc/jsconfig.json
 
