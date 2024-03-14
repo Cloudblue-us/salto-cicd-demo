@@ -12,6 +12,7 @@
 		<members>AuthorizationFormDataUse</members>
 		<members>AuthorizationFormText</members>
 		<members>BatchJob</members>
+		<members>CommSubscription</members>
 		<members>Control_de_cambios__c</members>
 		<name>CustomObject</name>
 	</types>
