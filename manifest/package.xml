@@ -6,6 +6,9 @@
 		<members>AccountContactRole</members>
 		<members>Activity</members>
 		<members>AlternativePaymentMethod</members>
+		<members>AssociatedLocation</members>
+		<members>AuthorizationForm</members>
+		<members>AuthorizationFormConsent</members>
 		<members>Control_de_cambios__c</members>
 		<name>CustomObject</name>
 	</types>
