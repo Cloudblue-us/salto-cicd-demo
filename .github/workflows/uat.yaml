@@ -38,5 +38,5 @@ jobs:
         run: sfdx auth:sfdxurl:store -f ./SALTO_UAT_URL.txt -s -a targetOrg
       - name: Deployment - run all tests
         run: >
-          sfdx force:source:deploy -p manifest/package.xml --checkonly --testlevel
+          sfdx force:source:deploy -p "force-app" --checkonly --testlevel
           RunLocalTests --json
